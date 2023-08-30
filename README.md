@@ -4,7 +4,7 @@
 
 ## Algemeen
 Hier vind je de [startpagina](https://moonhack.com/) van Moonhack 2023 (in het Engels)<br/>
-Hier vind je de [projectenpagina](https://moonhack.com/projects) van Moonhack 2023 (in het Engels)
+Hier vind je de [projectenpagina](https://moonhack.com/projects) van Moonhack 2023 (in het Engels)<br/>
 Moonhack 2023 wordt georganiseerd door [Code Club Australië](https://codeclubau.org/)
 
 ## Scratch-projecten
